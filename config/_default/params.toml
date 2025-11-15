@@ -1,0 +1,15 @@
+colorScheme = "auto"
+defaultAppearance = "dark"
+enableCodeCopy = true
+footerShowTheme = true
+
+[homepage]
+showRecent = true
+mainSections = ["blog"]
+
+[author]
+name = "Artem B"
+email = "artem@example.com"
+
+[social]
+github = "nerzhulart"

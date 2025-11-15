@@ -1,0 +1,12 @@
+baseURL = "https://nerzhulart.github.io/"
+languageCode = "en"
+title = "Artem B | Blog"
+theme = "github.com/jpanther/congo/v2"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[markup]
+  [markup.highlight]
+    noClasses = false
