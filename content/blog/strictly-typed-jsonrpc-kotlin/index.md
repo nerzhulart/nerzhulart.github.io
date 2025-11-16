@@ -3,6 +3,7 @@ title: "Strictly Typed JSON-RPC in Kotlin"
 date: 2025-11-16
 tags: ["kotlin", "jsonrpc", "sdk"]
 draft: false
+canonicalURL: "https://nerzhulart.github.io/blog/strictly-typed-jsonrpc-kotlin/"
 ---
 
 Throughout my career, I've primarily worked with two main programming languages - C# and Kotlin (plus some Java). Both languages provide quite flexible and powerful support for Generic types, and I've always been drawn to maximizing these features to make code more convenient, universal, and safer, while maintaining good readability and maintainability.
