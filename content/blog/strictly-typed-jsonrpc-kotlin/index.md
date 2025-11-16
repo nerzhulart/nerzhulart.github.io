@@ -1,6 +1,6 @@
 ---
 title: "Strictly Typed JSON-RPC in Kotlin"
-date: 2025-02-15
+date: 2025-11-16
 tags: ["kotlin", "jsonrpc", "sdk"]
 draft: false
 ---
