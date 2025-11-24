@@ -2,7 +2,7 @@
 title: "Non-Domain Primitive Orphaning in Kotlin: Why Context Loss Breaks Your Architecture"
 date: 2025-11-24
 tags: ["kotlin", "coroutines", "architecture", "patterns"]
-draft: true
+draft: false
 canonicalURL: "https://nerzhulart.github.io/blog/primitive-orphaning-kotlin/"
 ---
 
