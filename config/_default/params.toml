@@ -1,6 +1,7 @@
 colorScheme = "auto"
 defaultAppearance = "auto"
 enableCodeCopy = true
+enableMermaid = true
 footerShowTheme = true
 
 [homepage]
