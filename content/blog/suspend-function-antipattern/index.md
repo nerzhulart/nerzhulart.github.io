@@ -6,8 +6,6 @@ draft: false
 canonicalURL: "https://nerzhulart.github.io/blog/suspend-function-antipattern/"
 ---
 
-![Multi-tier waterfall](cover.jpg)
-
 When you start working with Kotlin coroutines, there's a temptation to mark everything as `suspend`. After all, suspend functions compose nicely, the compiler helps you, and it feels like you're writing "proper async code". While `suspend` often appears in async code paths, that doesn't mean "cheap to call repeatedly" or "automatically non-blocking". It means "this function can suspend execution" and thus *can* introduce backpressure. Using it incorrectly creates performance problems that are hard to spot until they hit production.
 
 This article explores a common anti-pattern: using `suspend` for fire-and-forget APIs where it creates unwanted backpressure and hidden performance costs.
