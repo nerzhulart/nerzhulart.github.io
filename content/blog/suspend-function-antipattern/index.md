@@ -1,6 +1,6 @@
 ---
 title: "When NOT to Use suspend in Kotlin: The Reporting API Anti-Pattern"
-date: 2025-12-01
+date: 2026-02-22
 tags: ["kotlin", "coroutines", "performance", "architecture"]
 draft: false
 canonicalURL: "https://nerzhulart.github.io/blog/suspend-function-antipattern/"
